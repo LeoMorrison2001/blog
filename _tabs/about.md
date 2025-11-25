@@ -4,5 +4,24 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+## 👋 关于我
+
+你好！我是 **Leo Morrison**，一名热爱技术的开发者。
+
+## 🚀 关于本博客
+
+这里是我记录技术学习、开发经验和生活思考的地方。主要内容包括：
+
+- 💻 **编程技术** - 代码实践、工具使用
+- 📚 **学习笔记** - 知识总结、经验分享
+- 🔧 **项目记录** - 有趣的项目和解决方案
+- 💡 **随想** - 对技术和生活的思考
+
+## 📫 联系方式
+
+- **GitHub**: [@LeoMorrison2001](https://github.com/LeoMorrison2001)
+- **X (Twitter)**: [@LeoMorrison2001](https://x.com/LeoMorrison2001)
+- **Email**: leo.morrison.2001@gmail.com
+
+> **Just Write & Keep** - 持续记录，不断成长
 {: .prompt-tip }
