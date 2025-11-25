@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Leo's Tech Blog # 主标题
 
-tagline: Leo的博客 # 将显示为副标题
+tagline: 写点东西，记点东西 # 将显示为副标题
 
 description: >- # 用于 SEO 元标签和 atom feed
   Leo Morrison 的个人技术博客，分享编程、开发经验与技术见解。
@@ -87,7 +87,7 @@ pageviews:
 #     light — 使用浅色配色方案
 #     dark — 使用深色配色方案
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # 媒体资源的 CDN 端点。
 # 注意,一旦设置后,CDN 网址
