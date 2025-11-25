@@ -16,10 +16,10 @@ timezone: Asia/Shanghai
 
 title: Leo's Tech Blog # 主标题
 
-tagline: 写点东西，记点东西 # 将显示为副标题
+tagline: Just Write & Keep # 将显示为副标题
 
 description: >- # 用于 SEO 元标签和 atom feed
-  Leo Morrison 的个人技术博客，分享编程、开发经验与技术见解。
+  Leo Morrison's notes on code, tools, development, and whatever I'm learning.
 
 # 填写网站的协议和主机名。
 # 例如 'https://username.github.io',注意末尾不要加 '/'。
