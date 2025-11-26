@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # 侧边栏头像,支持本地或 CORS 资源
-avatar:
+avatar: https://img.maxcosmos.top/blog/avatar.jpg
 
 # 用于 SEO `og:image` 元标签的网站范围社交预览图片的 URL。
 # 可以通过 front matter 中的自定义 `page.image` 覆盖。
